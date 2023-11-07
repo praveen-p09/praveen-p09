@@ -1,13 +1,13 @@
-## Hey All!
-<img src="https://komarev.com/ghpvc/?username=praveen-p09&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-p09" /><img src="https://img.shields.io/github/followers/praveen-p09?label=follow&style=social" height="22" title="Follow me" />(https://github.com/praveen-p09) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:praveen.patro911@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praveen.patro911)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22021668/praveen-p09)
-<br>
-My name is **Praveen Chandra Patro**, I'm 18 years old and I'm a student of **Computer Science & Engineering** at NIT Raipur (**NITRR**).
-I am currently Technical Executive of the organization *Turing Club of Programmers NITRR*. I am completely passionate about web development and app development. 
+## Hey All! I'm Praveen
+<img src="https://komarev.com/ghpvc/?username=praveen-p09&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-p09" />
 
+<p align="left">I'm <b>Praveen Chandra Patro</b>, a student of <b>Computer Science & Engineering</b> at NIT Raipur.
+I'm currently Technical Executive of the organization Turing Club of Programmers NITRR. I'm passionate about web development and app development. </p>
 <img align= "right" width= "250" src= "[https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif]"/>
+
+## GitHub Stats
+![praveen-p09 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=praveen-p09)
+![praveen-p09 github-trophies](https://stats.dooboo.io/api/github-trophies?login=praveen-p09)
 
 - 🛠️ My skillset includes
   - Languages
@@ -17,7 +17,6 @@ I am currently Technical Executive of the organization *Turing Club of Programme
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="90">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="90">
   </div>
 
   - Tools
@@ -34,16 +33,17 @@ I am currently Technical Executive of the organization *Turing Club of Programme
   </div>
   <br><br>     
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Backend development and Flutter
 
-- 💬 I'm always ready to help and learn from others in Competitive Programming & DSA
+- 💬 I'm always open to learn from others in Competitive Programming & DSA
 
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): cyberwarrior911 </a>
 
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=praveen-p09&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
-
 ## Connect with me!
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:praveen.patro911@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praveen.patro911)
+  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22021668/praveen-p09)
   <p align="center">
     <a href="https://www.discord.com/" alt="Discord"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40"></a>
     <a href="https://twitter.com/praveenpatro9" alt="Twitter/X"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="40"></a>
