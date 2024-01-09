@@ -32,7 +32,7 @@
 </p>
 
 ## Badges:
-[![@praveenp09's Holopin board](https://holopin.io/api/user/board?user=praveenp09)](https://holopin.io/@praveenp09)
+[![@praveenp09's Holopin board](https://holopin.me/praveenp09)](https://holopin.io/@praveenp09)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=praveen-p09&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
