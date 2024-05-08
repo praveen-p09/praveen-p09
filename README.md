@@ -1,7 +1,10 @@
 <h1 align="center">Hey All! I'm Praveen</h1>
 
 [![](https://visitcount.itsvg.in/api?id=praveen-p09&icon=3&color=0)](https://visitcount.itsvg.in)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="400">
+
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="400">
+</div>
 
 ## 💫 About Me:
 <p>🎓 Pursuing B.Tech. in Computer Science and Engineering at NIT Raipur <br>🏫 Completed Schooling in PCM+CS from Kendriya Vidyalaya No. 2, Raipur<br>🔭 I'm currently working on front-end development<br>👥 I'm looking to collaborate on Open source projects<br>🤝 I'm looking for help with Competitive programming<br>🌱 I'm currently learning back-end development and Flutter<br>💬 Ask me about HTML/CSS/React/DSA</p>
