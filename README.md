@@ -13,7 +13,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,css,html,bootstrap,django,express,jquery,nodejs,react,next,tailwind,vite,firebase,mongodb,mysql,figma,git,github,vscode,androidstudio,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,css,html,bootstrap,django,express,nodejs,react,next,tailwind,vite,supabase,mongodb,mysql,figma,git,github,vscode,sublime,postman&perline=5" />
   </a>
 </p>
 
